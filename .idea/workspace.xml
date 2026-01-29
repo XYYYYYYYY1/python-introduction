@@ -5,24 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aa30105b-8cfd-4204-aa4d-1e6c3dd8b070" name="Changes" comment="push">
-      <change afterPath="$PROJECT_DIR$/day14-matplotlib入门/SourceHanSansSC-Bold.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day14-matplotlib入门/test2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day14-matplotlib入门/test3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day14-matplotlib入门/test4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day14-matplotlib入门/test5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day15-matplotlib高级/map.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day15-matplotlib高级/test1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day15-matplotlib高级/test2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day15-matplotlib高级/test3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day15-matplotlib高级/test4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day15-matplotlib高级/test5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day15-matplotlib高级/test6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day15-matplotlib高级/test7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day15-matplotlib高级/test8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day15-matplotlib高级/tiger.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day16-Seaborn/test1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day14-matplotlib入门/test1.py" beforeDir="false" afterPath="$PROJECT_DIR$/day14-matplotlib入门/test1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day16-Seaborn/test1.py" beforeDir="false" afterPath="$PROJECT_DIR$/day16-Seaborn/test1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -136,7 +120,7 @@
       <workItem from="1769505961008" duration="5411000" />
       <workItem from="1769517199564" duration="3722000" />
       <workItem from="1769589074699" duration="13530000" />
-      <workItem from="1769644597271" duration="3155000" />
+      <workItem from="1769644597271" duration="4754000" />
     </task>
     <task id="LOCAL-00001" summary="day1">
       <option name="closed" value="true" />
@@ -194,7 +178,15 @@
       <option name="project" value="LOCAL" />
       <updated>1769596517587</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="push">
+      <option name="closed" value="true" />
+      <created>1769648071089</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1769648071089</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -216,11 +208,11 @@
     <SUITE FILE_PATH="coverage/pythonIntroduction$test3.coverage" NAME="test3 覆盖结果" MODIFIED="1769613909659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day15-matplotlib高级" />
     <SUITE FILE_PATH="coverage/pythonIntroduction$test10.coverage" NAME="test10 覆盖结果" MODIFIED="1769506388556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day12-NumPy高级" />
     <SUITE FILE_PATH="coverage/pythonIntroduction$test6.coverage" NAME="test6 覆盖结果" MODIFIED="1769646897369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day15-matplotlib高级" />
-    <SUITE FILE_PATH="coverage/pythonIntroduction$test1.coverage" NAME="test1 覆盖结果" MODIFIED="1769609455840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day15-matplotlib高级" />
+    <SUITE FILE_PATH="coverage/pythonIntroduction$test1.coverage" NAME="test1 覆盖结果" MODIFIED="1769649750855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day16-Seaborn" />
     <SUITE FILE_PATH="coverage/pythonIntroduction$test4.coverage" NAME="test4 覆盖结果" MODIFIED="1769614012499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day15-matplotlib高级" />
     <SUITE FILE_PATH="coverage/pythonIntroduction$text3.coverage" NAME="text3 Coverage Results" MODIFIED="1768532597162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day7" />
     <SUITE FILE_PATH="coverage/pythonIntroduction$test9.coverage" NAME="test9 覆盖结果" MODIFIED="1769438013168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day12-NumPy高级" />
-    <SUITE FILE_PATH="coverage/pythonIntroduction$1.coverage" NAME="1 覆盖结果" MODIFIED="1769613335786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day15-matplotlib高级" />
+    <SUITE FILE_PATH="coverage/pythonIntroduction$1.coverage" NAME="1 覆盖结果" MODIFIED="1769648845797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day16-Seaborn" />
     <SUITE FILE_PATH="coverage/pythonIntroduction$test13.coverage" NAME="test13 覆盖结果" MODIFIED="1769512067146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day12-NumPy高级" />
   </component>
 </project>
